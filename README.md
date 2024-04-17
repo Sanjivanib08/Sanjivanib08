@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m Passionate Developer <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking Internship in Full Stack Development<br>🌱 I’m currently learning React and DSA<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m Passionate Developer <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking Internship in Full Stack Development<br>🌱 I’m currently learning React and DSA<br>💬 Ask me about<br>⚡ 
+
+
+[![](https://visitcount.itsvg.in/api?id=sanjivanib08&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐 Socials:
@@ -16,6 +20,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sanjivanib08&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjivanib08&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
